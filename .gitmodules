@@ -1,0 +1,3 @@
+[submodule "CopyRepo"]
+	path = CopyRepo
+	url = https://github.com/hiroyukimorikawa/CopyRepo.git
